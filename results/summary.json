@@ -1,0 +1,48 @@
+{
+  "n_skus": 40,
+  "n_service_centers": 6,
+  "n_stocking_decisions": 240,
+  "uniform_95": {
+    "investment": 340971.13,
+    "annual_holding_cost": 85242.7825,
+    "fill_rate": 0.9671533869109199,
+    "critical_fill_rate": 0.9713858496073446,
+    "weighted_short_per_week": 8.71639070228455,
+    "critical_units_short_per_year": 49.516123406201004
+  },
+  "optimized_same_budget": {
+    "investment": 340967.98,
+    "annual_holding_cost": 85241.99500000001,
+    "fill_rate": 0.9981084772357008,
+    "critical_fill_rate": 0.9947960695197503,
+    "weighted_short_per_week": 0.7386321110325523,
+    "critical_units_short_per_year": 9.00528096488503
+  },
+  "optimized_lean": {
+    "investment": 184068.14,
+    "annual_holding_cost": 46017.034999999996,
+    "fill_rate": 0.98358906461294,
+    "critical_fill_rate": 0.9714623811419755,
+    "weighted_short_per_week": 5.302769195897042,
+    "critical_units_short_per_year": 49.38368736105393
+  },
+  "lean_investment_saving_pct": 0.4601650292210956,
+  "lean_annual_holding_saving": 39225.747500000005,
+  "segments": {
+    "AX": 11,
+    "AY": 9,
+    "BZ": 7,
+    "CZ": 5,
+    "AZ": 3,
+    "BY": 3,
+    "BX": 1,
+    "CY": 1
+  },
+  "scenarios": {
+    "Baseline": "Normal demand and 1-week DC replenishment",
+    "Supplier delay": "HV, thermal and powertrain parts take +3 weeks to replenish for 12 weeks",
+    "Recall surge": "Front control arm demand triples for 8 weeks after a service campaign",
+    "DC outage": "Central DC closed for 2 weeks; no replenishment ships",
+    "Combined": "Supplier delay, recall surge and DC outage in the same year"
+  }
+}

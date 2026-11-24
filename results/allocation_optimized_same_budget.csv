@@ -1,0 +1,241 @@
+sku,center,category,unit_cost,critical,weekly_rate,base_stock,fill_rate
+Brake pad set (Platform A),Los Angeles,Wear,121.5,False,4.9012,21,0.9998142875772864
+Brake pad set (Platform A),SF Bay Area,Wear,121.5,False,4.811,20,0.9996444160595734
+Brake pad set (Platform A),Seattle,Wear,121.5,False,2.9263,14,0.9994245622725476
+Brake pad set (Platform A),Phoenix,Wear,121.5,False,1.8552,11,0.9996438918825561
+Brake pad set (Platform A),Dallas,Wear,121.5,False,3.6692,17,0.9997336829994219
+Brake pad set (Platform A),Chicago,Wear,121.5,False,4.5507,20,0.9998169700576548
+Brake pad set (Platform B),Los Angeles,Wear,134.75,False,2.2822,12,0.999421382487892
+Brake pad set (Platform B),SF Bay Area,Wear,134.75,False,3.8678,17,0.9995338417988279
+Brake pad set (Platform B),Seattle,Wear,134.75,False,1.9782,11,0.9994079371649348
+Brake pad set (Platform B),Phoenix,Wear,134.75,False,1.4311,9,0.9992798070359251
+Brake pad set (Platform B),Dallas,Wear,134.75,False,3.9573,18,0.99976783120601
+Brake pad set (Platform B),Chicago,Wear,134.75,False,2.6135,13,0.9993968807888469
+Wiper blade kit (Platform A),Los Angeles,Wear,35.96,False,4.9792,22,0.999907225536005
+Wiper blade kit (Platform A),SF Bay Area,Wear,35.96,False,6.3573,26,0.9999100517004166
+Wiper blade kit (Platform A),Seattle,Wear,35.96,False,4.4355,21,0.9999487096839182
+Wiper blade kit (Platform A),Phoenix,Wear,35.96,False,3.2051,17,0.9999410534408038
+Wiper blade kit (Platform A),Dallas,Wear,35.96,False,5.6936,25,0.9999587692655841
+Wiper blade kit (Platform A),Chicago,Wear,35.96,False,4.2488,20,0.9999218110824668
+Wiper blade kit (Platform B),Los Angeles,Wear,36.76,False,5.2933,23,0.9999137577864595
+Wiper blade kit (Platform B),SF Bay Area,Wear,36.76,False,5.9604,25,0.9999191629017279
+Wiper blade kit (Platform B),Seattle,Wear,36.76,False,2.1621,13,0.999892102331843
+Wiper blade kit (Platform B),Phoenix,Wear,36.76,False,2.3567,14,0.999928293101802
+Wiper blade kit (Platform B),Dallas,Wear,36.76,False,2.85,15,0.9998479413457504
+Wiper blade kit (Platform B),Chicago,Wear,36.76,False,2.9731,16,0.9999225070947045
+Cabin air filter (Platform A),Los Angeles,Wear,39.2,False,4.37,20,0.9998887642575871
+Cabin air filter (Platform A),SF Bay Area,Wear,39.2,False,4.7238,21,0.9998835013945887
+Cabin air filter (Platform A),Seattle,Wear,39.2,False,3.1992,17,0.9999422913825781
+Cabin air filter (Platform A),Phoenix,Wear,39.2,False,3.6807,18,0.9998988473246407
+Cabin air filter (Platform A),Dallas,Wear,39.2,False,5.5923,24,0.9999232030288588
+Cabin air filter (Platform A),Chicago,Wear,39.2,False,2.7151,15,0.9999077939494203
+Cabin air filter (Platform B),Los Angeles,Wear,44.81,False,3.2137,16,0.999820979032592
+Cabin air filter (Platform B),SF Bay Area,Wear,44.81,False,4.279,20,0.9999145083823724
+Cabin air filter (Platform B),Seattle,Wear,44.81,False,1.3612,10,0.9998791480829861
+Cabin air filter (Platform B),Phoenix,Wear,44.81,False,1.7457,11,0.99978238171125
+Cabin air filter (Platform B),Dallas,Wear,44.81,False,2.7327,15,0.9999013796227318
+Cabin air filter (Platform B),Chicago,Wear,44.81,False,3.4505,17,0.99986411894713
+12V battery (Platform A),Los Angeles,Electrical,171.09,True,2.495,14,0.9998735853119857
+12V battery (Platform A),SF Bay Area,Electrical,171.09,True,1.7968,11,0.9997247806041568
+12V battery (Platform A),Seattle,Electrical,171.09,True,1.0944,8,0.9994791170834791
+12V battery (Platform A),Phoenix,Electrical,171.09,True,0.9863,8,0.9997323770681076
+12V battery (Platform A),Dallas,Electrical,171.09,True,2.1954,13,0.9998754515135168
+12V battery (Platform A),Chicago,Electrical,171.09,True,1.213,9,0.9997712853254127
+12V battery (Platform B),Los Angeles,Electrical,200.64,True,1.2976,9,0.9996325451570954
+12V battery (Platform B),SF Bay Area,Electrical,200.64,True,1.4198,10,0.9998322786562172
+12V battery (Platform B),Seattle,Electrical,200.64,True,0.7762,7,0.9996729442852464
+12V battery (Platform B),Phoenix,Electrical,200.64,True,0.6663,6,0.9991766435119909
+12V battery (Platform B),Dallas,Electrical,200.64,True,0.7569,7,0.9997177212544948
+12V battery (Platform B),Chicago,Electrical,200.64,True,0.8974,7,0.9992468968642666
+Tire pressure sensor (Platform A),Los Angeles,Electrical,66.93,False,2.2555,13,0.9998398175926236
+Tire pressure sensor (Platform A),SF Bay Area,Electrical,66.93,False,3.132,16,0.999863853942267
+Tire pressure sensor (Platform A),Seattle,Electrical,66.93,False,1.6954,11,0.999828854269917
+Tire pressure sensor (Platform A),Phoenix,Electrical,66.93,False,1.2524,9,0.9997133313396718
+Tire pressure sensor (Platform A),Dallas,Electrical,66.93,False,2.1274,12,0.9996795949879558
+Tire pressure sensor (Platform A),Chicago,Electrical,66.93,False,1.488,10,0.9997595299972863
+Tire pressure sensor (Platform B),Los Angeles,Electrical,69.97,False,2.1855,12,0.9995972692487227
+Tire pressure sensor (Platform B),SF Bay Area,Electrical,69.97,False,1.5579,10,0.9996595291678758
+Tire pressure sensor (Platform B),Seattle,Electrical,69.97,False,1.1107,8,0.999428177320512
+Tire pressure sensor (Platform B),Phoenix,Electrical,69.97,False,0.6083,6,0.999481366674253
+Tire pressure sensor (Platform B),Dallas,Electrical,69.97,False,1.3086,9,0.9996103074909625
+Tire pressure sensor (Platform B),Chicago,Electrical,69.97,False,0.7082,7,0.9998092981555564
+Front control arm (Platform A),Los Angeles,Suspension,254.88,True,0.606,6,0.9994913223087376
+Front control arm (Platform A),SF Bay Area,Suspension,254.88,True,0.8674,7,0.999379188035829
+Front control arm (Platform A),Seattle,Suspension,254.88,True,0.46,5,0.9990611020912298
+Front control arm (Platform A),Phoenix,Suspension,254.88,True,0.5251,5,0.9983377070486619
+Front control arm (Platform A),Dallas,Suspension,254.88,True,1.262,9,0.9996975246368447
+Front control arm (Platform A),Chicago,Suspension,254.88,True,0.5263,5,0.9983214236810019
+Front control arm (Platform B),Los Angeles,Suspension,274.58,True,0.5749,6,0.9996119984371009
+Front control arm (Platform B),SF Bay Area,Suspension,274.58,True,0.6569,6,0.9992335478905426
+Front control arm (Platform B),Seattle,Suspension,274.58,True,0.4344,5,0.9992692028579981
+Front control arm (Platform B),Phoenix,Suspension,274.58,True,0.3215,4,0.9982037679774433
+Front control arm (Platform B),Dallas,Suspension,274.58,True,0.4559,5,0.9990970564277987
+Front control arm (Platform B),Chicago,Suspension,274.58,True,0.5149,5,0.9984715121393878
+Rear toe link (Platform A),Los Angeles,Suspension,136.57,False,0.7653,6,0.9983616218590016
+Rear toe link (Platform A),SF Bay Area,Suspension,136.57,False,0.4819,5,0.9988508907485782
+Rear toe link (Platform A),Seattle,Suspension,136.57,False,0.3765,4,0.99685716085802
+Rear toe link (Platform A),Phoenix,Suspension,136.57,False,0.339,4,0.9978301150738211
+Rear toe link (Platform A),Dallas,Suspension,136.57,False,0.3688,4,0.9970771335212045
+Rear toe link (Platform A),Chicago,Suspension,136.57,False,0.461,5,0.9990521748301237
+Rear toe link (Platform B),Los Angeles,Suspension,150.37,False,0.3615,4,0.997275813584737
+Rear toe link (Platform B),SF Bay Area,Suspension,150.37,False,0.5304,5,0.9982649129429693
+Rear toe link (Platform B),Seattle,Suspension,150.37,False,0.2686,4,0.9990615947788821
+Rear toe link (Platform B),Phoenix,Suspension,150.37,False,0.2291,3,0.9943217213788923
+Rear toe link (Platform B),Dallas,Suspension,150.37,False,0.276,4,0.998964019772103
+Rear toe link (Platform B),Chicago,Suspension,150.37,False,0.2796,4,0.9989140829166325
+Wheel bearing hub (Platform A),Los Angeles,Suspension,310.14,True,0.3059,4,0.998497256707365
+Wheel bearing hub (Platform A),SF Bay Area,Suspension,310.14,True,0.3527,4,0.9975028655920627
+Wheel bearing hub (Platform A),Seattle,Suspension,310.14,True,0.3153,4,0.9983247434075966
+Wheel bearing hub (Platform A),Phoenix,Suspension,310.14,True,0.148,3,0.9983109413826616
+Wheel bearing hub (Platform A),Dallas,Suspension,310.14,True,0.4449,5,0.999188494919566
+Wheel bearing hub (Platform A),Chicago,Suspension,310.14,True,0.2094,3,0.9955597247819906
+Wheel bearing hub (Platform B),Los Angeles,Suspension,336.59,True,0.406,5,0.9994577148083775
+Wheel bearing hub (Platform B),SF Bay Area,Suspension,336.59,True,0.2526,4,0.999250276054967
+Wheel bearing hub (Platform B),Seattle,Suspension,336.59,True,0.2333,4,0.9994403144641972
+Wheel bearing hub (Platform B),Phoenix,Suspension,336.59,True,0.1736,3,0.997357716068368
+Wheel bearing hub (Platform B),Dallas,Suspension,336.59,True,0.1634,3,0.9977691411528427
+Wheel bearing hub (Platform B),Chicago,Suspension,336.59,True,0.2952,4,0.9986782065208711
+Door handle assembly (Platform A),Los Angeles,Body,157.43,False,1.8068,10,0.9989893384604448
+Door handle assembly (Platform A),SF Bay Area,Body,157.43,False,1.1509,8,0.9992853759653458
+Door handle assembly (Platform A),Seattle,Body,157.43,False,0.6723,6,0.9991386681786041
+Door handle assembly (Platform A),Phoenix,Body,157.43,False,0.6053,6,0.999494322794817
+Door handle assembly (Platform A),Dallas,Body,157.43,False,0.7053,6,0.9989053245074314
+Door handle assembly (Platform A),Chicago,Body,157.43,False,1.066,8,0.999559138212589
+Door handle assembly (Platform B),Los Angeles,Body,166.74,False,0.7334,6,0.9986712228180936
+Door handle assembly (Platform B),SF Bay Area,Body,166.74,False,0.7701,6,0.998310713819795
+Door handle assembly (Platform B),Seattle,Body,166.74,False,0.3936,4,0.9963292069743973
+Door handle assembly (Platform B),Phoenix,Body,166.74,False,0.3591,4,0.9973390730077023
+Door handle assembly (Platform B),Dallas,Body,166.74,False,0.4359,5,0.9992580544888838
+Door handle assembly (Platform B),Chicago,Body,166.74,False,0.7394,6,0.9986166826152404
+Side mirror assembly (Platform A),Los Angeles,Body,323.91,False,0.5658,5,0.9977179835777202
+Side mirror assembly (Platform A),SF Bay Area,Body,323.91,False,0.6951,6,0.9989820302587412
+Side mirror assembly (Platform A),Seattle,Body,323.91,False,0.3371,4,0.9978730468518592
+Side mirror assembly (Platform A),Phoenix,Body,323.91,False,0.2471,3,0.9930283606155714
+Side mirror assembly (Platform A),Dallas,Body,323.91,False,0.3871,4,0.996536412496979
+Side mirror assembly (Platform A),Chicago,Body,323.91,False,0.3286,4,0.9980579990744101
+Side mirror assembly (Platform B),Los Angeles,Body,362.5,False,0.3928,4,0.9963551473696387
+Side mirror assembly (Platform B),SF Bay Area,Body,362.5,False,0.3314,4,0.9979983456852421
+Side mirror assembly (Platform B),Seattle,Body,362.5,False,0.2078,3,0.9956523233596817
+Side mirror assembly (Platform B),Phoenix,Body,362.5,False,0.1389,2,0.9805697895050288
+Side mirror assembly (Platform B),Dallas,Body,362.5,False,0.2289,3,0.9943352122256891
+Side mirror assembly (Platform B),Chicago,Body,362.5,False,0.3811,4,0.9967205497541337
+Headlamp assembly (Platform A),Los Angeles,Body,874.38,False,0.2841,3,0.9898650411681492
+Headlamp assembly (Platform A),SF Bay Area,Body,874.38,False,0.2397,3,0.9935791442918813
+Headlamp assembly (Platform A),Seattle,Body,874.38,False,0.2089,2,0.9591363748466997
+Headlamp assembly (Platform A),Phoenix,Body,874.38,False,0.2388,3,0.9936443064673424
+Headlamp assembly (Platform A),Dallas,Body,874.38,False,0.1669,2,0.9727545495433377
+Headlamp assembly (Platform A),Chicago,Body,874.38,False,0.205,2,0.9604889261397044
+Headlamp assembly (Platform B),Los Angeles,Body,938.97,False,0.1913,2,0.965101891210019
+Headlamp assembly (Platform B),SF Bay Area,Body,938.97,False,0.1339,2,0.981848728222163
+Headlamp assembly (Platform B),Seattle,Body,938.97,False,0.1538,2,0.9765456080517495
+Headlamp assembly (Platform B),Phoenix,Body,938.97,False,0.1113,2,0.9871579509836499
+Headlamp assembly (Platform B),Dallas,Body,938.97,False,0.1629,2,0.9739364965062658
+Headlamp assembly (Platform B),Chicago,Body,938.97,False,0.1193,2,0.9853689689560335
+Windshield (Platform A),Los Angeles,Body,1112.38,False,0.4706,4,0.9932148602632703
+Windshield (Platform A),SF Bay Area,Body,1112.38,False,0.3408,3,0.9836511278210055
+Windshield (Platform A),Seattle,Body,1112.38,False,0.2316,3,0.994151467969682
+Windshield (Platform A),Phoenix,Body,1112.38,False,0.1592,2,0.9750108498828134
+Windshield (Platform A),Dallas,Body,1112.38,False,0.2214,2,0.9546882472214946
+Windshield (Platform A),Chicago,Body,1112.38,False,0.377,3,0.9787998859459348
+Windshield (Platform B),Los Angeles,Body,1133.82,False,0.2467,3,0.9930588194321155
+Windshield (Platform B),SF Bay Area,Body,1133.82,False,0.2797,3,0.9902775156908649
+Windshield (Platform B),Seattle,Body,1133.82,False,0.1587,2,0.9751546218532157
+Windshield (Platform B),Phoenix,Body,1133.82,False,0.1254,2,0.9839376374627901
+Windshield (Platform B),Dallas,Body,1133.82,False,0.1761,2,0.9699569909691114
+Windshield (Platform B),Chicago,Body,1133.82,False,0.2107,2,0.9585063834347183
+Charge port assembly (Platform A),Los Angeles,HV,572.14,True,0.2337,3,0.994006133531303
+Charge port assembly (Platform A),SF Bay Area,HV,572.14,True,0.2253,3,0.9945747806092642
+Charge port assembly (Platform A),Seattle,HV,572.14,True,0.1448,3,0.9984119677463787
+Charge port assembly (Platform A),Phoenix,HV,572.14,True,0.1691,3,0.9975445203358415
+Charge port assembly (Platform A),Dallas,HV,572.14,True,0.2134,3,0.9953230584744032
+Charge port assembly (Platform A),Chicago,HV,572.14,True,0.1783,3,0.9971535408704976
+Charge port assembly (Platform B),Los Angeles,HV,648.96,True,0.1459,3,0.9983776778268483
+Charge port assembly (Platform B),SF Bay Area,HV,648.96,True,0.1104,2,0.9873528381416711
+Charge port assembly (Platform B),Seattle,HV,648.96,True,0.1217,2,0.9848126780103209
+Charge port assembly (Platform B),Phoenix,HV,648.96,True,0.107,2,0.9880772761715605
+Charge port assembly (Platform B),Dallas,HV,648.96,True,0.1159,2,0.9861416499133542
+Charge port assembly (Platform B),Chicago,HV,648.96,True,0.1237,2,0.9843422943767421
+HV contactor (Platform A),Los Angeles,HV,448.48,True,0.2042,3,0.9958563783210926
+HV contactor (Platform A),SF Bay Area,HV,448.48,True,0.192,3,0.9965042901055451
+HV contactor (Platform A),Seattle,HV,448.48,True,0.1209,3,0.9990482883627847
+HV contactor (Platform A),Phoenix,HV,448.48,True,0.075,2,0.9939411309049728
+HV contactor (Platform A),Dallas,HV,448.48,True,0.1753,3,0.997284942041359
+HV contactor (Platform A),Chicago,HV,448.48,True,0.0791,2,0.9932897446399743
+HV contactor (Platform B),Los Angeles,HV,506.27,True,0.1389,3,0.9985881600145223
+HV contactor (Platform B),SF Bay Area,HV,506.27,True,0.1177,3,0.9991184329086453
+HV contactor (Platform B),Seattle,HV,506.27,True,0.0796,2,0.9932082345841035
+HV contactor (Platform B),Phoenix,HV,506.27,True,0.0896,2,0.9914849751767832
+HV contactor (Platform B),Dallas,HV,506.27,True,0.1159,2,0.9861416499133542
+HV contactor (Platform B),Chicago,HV,506.27,True,0.0541,2,0.996776834134818
+Coolant pump (Platform A),Los Angeles,Thermal,384.91,True,0.1928,3,0.9964638425652184
+Coolant pump (Platform A),SF Bay Area,Thermal,384.91,True,0.3349,4,0.9979220262353355
+Coolant pump (Platform A),Seattle,Thermal,384.91,True,0.1303,3,0.9988222010947079
+Coolant pump (Platform A),Phoenix,Thermal,384.91,True,0.1465,3,0.9983587812913252
+Coolant pump (Platform A),Dallas,Thermal,384.91,True,0.2591,4,0.9991771931697745
+Coolant pump (Platform A),Chicago,Thermal,384.91,True,0.1253,3,0.9989462346333273
+Coolant pump (Platform B),Los Angeles,Thermal,410.98,True,0.1157,3,0.9991605620986345
+Coolant pump (Platform B),SF Bay Area,Thermal,410.98,True,0.1942,3,0.9963923766623571
+Coolant pump (Platform B),Seattle,Thermal,410.98,True,0.1132,3,0.9992114009029828
+Coolant pump (Platform B),Phoenix,Thermal,410.98,True,0.0922,2,0.9910083269951492
+Coolant pump (Platform B),Dallas,Thermal,410.98,True,0.1414,3,0.9985150818907538
+Coolant pump (Platform B),Chicago,Thermal,410.98,True,0.1016,2,0.9891890527926726
+Heat pump valve (Platform A),Los Angeles,Thermal,519.84,True,0.0863,2,0.9920730848133518
+Heat pump valve (Platform A),SF Bay Area,Thermal,519.84,True,0.1122,2,0.9869617640247893
+Heat pump valve (Platform A),Seattle,Thermal,519.84,True,0.0565,2,0.9964934608695323
+Heat pump valve (Platform A),Phoenix,Thermal,519.84,True,0.0418,2,0.9980505246659112
+Heat pump valve (Platform A),Dallas,Thermal,519.84,True,0.1021,2,0.9890881305220606
+Heat pump valve (Platform A),Chicago,Thermal,519.84,True,0.0798,2,0.9931755050874084
+Heat pump valve (Platform B),Los Angeles,Thermal,547.42,True,0.093,2,0.9908593278421215
+Heat pump valve (Platform B),SF Bay Area,Thermal,547.42,True,0.0609,2,0.9959450147078448
+Heat pump valve (Platform B),Seattle,Thermal,547.42,True,0.0407,2,0.9981496142157325
+Heat pump valve (Platform B),Phoenix,Thermal,547.42,True,0.0327,1,0.9521759435181344
+Heat pump valve (Platform B),Dallas,Thermal,547.42,True,0.0481,2,0.9974358342976236
+Heat pump valve (Platform B),Chicago,Thermal,547.42,True,0.0567,2,0.9964693412949159
+Media control unit (Platform A),Los Angeles,Electronics,1426.77,False,0.0691,1,0.9017201541014526
+Media control unit (Platform A),SF Bay Area,Electronics,1426.77,False,0.0853,1,0.8801641560296749
+Media control unit (Platform A),Seattle,Electronics,1426.77,False,0.0523,1,0.9246536609464191
+Media control unit (Platform A),Phoenix,Electronics,1426.77,False,0.0697,1,0.9009120969585211
+Media control unit (Platform A),Dallas,Electronics,1426.77,False,0.0424,1,0.9384505690991274
+Media control unit (Platform A),Chicago,Electronics,1426.77,False,0.0674,1,0.9040137346591728
+Media control unit (Platform B),Los Angeles,Electronics,1570.17,False,0.0548,1,0.9212029796917036
+Media control unit (Platform B),SF Bay Area,Electronics,1570.17,False,0.0518,1,0.9253454045615878
+Media control unit (Platform B),Seattle,Electronics,1570.17,False,0.0223,1,0.9671233040929815
+Media control unit (Platform B),Phoenix,Electronics,1570.17,False,0.025,1,0.9632195011047464
+Media control unit (Platform B),Dallas,Electronics,1570.17,False,0.0482,1,0.9303418309498664
+Media control unit (Platform B),Chicago,Electronics,1570.17,False,0.0353,1,0.9484766761829162
+Body control module (Platform A),Los Angeles,Electronics,815.36,True,0.1029,2,0.9889257933042908
+Body control module (Platform A),SF Bay Area,Electronics,815.36,True,0.087,2,0.9919499204248149
+Body control module (Platform A),Seattle,Electronics,815.36,True,0.0769,2,0.9936430475122234
+Body control module (Platform A),Phoenix,Electronics,815.36,True,0.0501,2,0.9972240702702871
+Body control module (Platform A),Dallas,Electronics,815.36,True,0.0415,1,0.9397153764180147
+Body control module (Platform A),Chicago,Electronics,815.36,True,0.0545,2,0.9967303843050077
+Body control module (Platform B),Los Angeles,Electronics,838.13,True,0.0411,1,0.9402780804128846
+Body control module (Platform B),SF Bay Area,Electronics,838.13,True,0.0277,1,0.9593320386325042
+Body control module (Platform B),Seattle,Electronics,838.13,True,0.0336,1,0.950893737387702
+Body control module (Platform B),Phoenix,Electronics,838.13,True,0.0469,2,0.9975590688976614
+Body control module (Platform B),Dallas,Electronics,838.13,True,0.0486,2,0.9973836387174632
+Body control module (Platform B),Chicago,Electronics,838.13,True,0.0322,1,0.9528890549785508
+HV battery module (Platform A),Los Angeles,HV,2960.86,True,0.0266,1,0.9609138516575892
+HV battery module (Platform A),SF Bay Area,HV,2960.86,True,0.0414,1,0.9398560196641104
+HV battery module (Platform A),Seattle,HV,2960.86,True,0.02,1,0.9704617077216047
+HV battery module (Platform A),Phoenix,HV,2960.86,True,0.017,1,0.9748341174942932
+HV battery module (Platform A),Dallas,HV,2960.86,True,0.0237,1,0.9650970658200995
+HV battery module (Platform A),Chicago,HV,2960.86,True,0.0218,1,0.9678480294389151
+HV battery module (Platform B),Los Angeles,HV,3079.21,True,0.0274,1,0.9597631741680777
+HV battery module (Platform B),SF Bay Area,HV,3079.21,True,0.0239,1,0.9648079628288484
+HV battery module (Platform B),Seattle,HV,3079.21,True,0.0135,1,0.9799610958070996
+HV battery module (Platform B),Phoenix,HV,3079.21,True,0.0086,0,0.0
+HV battery module (Platform B),Dallas,HV,3079.21,True,0.0182,1,0.9730827069821665
+HV battery module (Platform B),Chicago,HV,3079.21,True,0.0121,1,0.9820197099560297
+Drive unit (Platform A),Los Angeles,Powertrain,4648.52,True,0.0331,1,0.9516058528844398
+Drive unit (Platform A),SF Bay Area,Powertrain,4648.52,True,0.017,1,0.9748341174942932
+Drive unit (Platform A),Seattle,Powertrain,4648.52,True,0.0139,0,0.0
+Drive unit (Platform A),Phoenix,Powertrain,4648.52,True,0.0126,0,0.0
+Drive unit (Platform A),Dallas,Powertrain,4648.52,True,0.0129,0,0.0
+Drive unit (Platform A),Chicago,Powertrain,4648.52,True,0.0249,1,0.9633637945693416
+Drive unit (Platform B),Los Angeles,Powertrain,4692.07,True,0.0242,1,0.9643744767421204
+Drive unit (Platform B),SF Bay Area,Powertrain,4692.07,True,0.0139,0,0.0
+Drive unit (Platform B),Seattle,Powertrain,4692.07,True,0.0116,0,0.0
+Drive unit (Platform B),Phoenix,Powertrain,4692.07,True,0.0092,0,0.0
+Drive unit (Platform B),Dallas,Powertrain,4692.07,True,0.0062,0,0.0
+Drive unit (Platform B),Chicago,Powertrain,4692.07,True,0.0115,0,0.0
